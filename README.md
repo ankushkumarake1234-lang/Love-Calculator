@@ -1,509 +1,250 @@
+# <div align="center">👋 नमस्ते, I'm Ankush Kumar</div>
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Love+Calculator+Creator+%E2%9D%A4%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-# 🎮 3D Distributed Load Balancer Simulator
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+Load+Balancing+in+3D;Real-Time+Network+Simulation;Learn+Through+Gameplay;Build+Your+Data+Center!" alt="Typing SVG" />
-
-<p align="center">
-  <strong>An immersive 3D game that transforms complex network concepts into an engaging visual experience</strong>
-</p>
-
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Panda3D](https://img.shields.io/badge/Panda3D-1.10.16-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)
-![Completion](https://img.shields.io/badge/completion-95%25-success.svg)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1500+-blueviolet.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Learn%20Load%20Balancing%20Through%20Play&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-kumar-60333537b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushkumarake1234-lang)
+[![Profile Views](https://komarev.com/ghpvc/?username=ankushkumarake1234-lang&color=ff006e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ankushkumarake1234-lang)
 
 </div>
 
 ---
 
-## 📑 Table of Contents
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-- [🌟 Overview](#-overview)
-- [✨ Features](#-features)
-- [🎯 Game Mechanics](#-game-mechanics)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [🚀 Installation](#-installation)
-- [🎮 How to Play](#-how-to-play)
-- [📊 Scoring System](#-scoring-system)
-- [🏆 Achievements](#-achievements)
-- [🎨 Visual Features](#-visual-features)
-- [🔊 Audio System](#-audio-system)
-- [📈 Educational Value](#-educational-value)
-- [🗺️ Roadmap](#️-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👨‍💻 Author](#-author)
+```javascript
+const ankush = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    passions: ["Web Development", "UI/UX Design", "Animation Magic"],
+    currentProject: "Love Calculator - Premium Edition ❤️",
+    learning: ["Advanced CSS Animations", "GSAP", "Modern JavaScript"],
+    funFact: "I create experiences, not just websites! ✨",
+    hobbies: ["Coding 💻", "Design 🎨", "Problem Solving 🧩"],
+    motto: "Code with ❤️, Design with 🎨, Deploy with 🚀"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🌟 Overview
+## 🚀 **Featured Project: Love Calculator**
 
 <div align="center">
 
-**Transform into a Network Administrator and manage your own data center!**
+### ❤️ **[Love Calculator - Premium Edition](https://github.com/ankushkumarake1234-lang/love-calculator)**
+
+![Love Calculator](https://img.shields.io/badge/Love-Calculator-ff006e?style=for-the-badge&logo=heart)
+
+*A modern, interactive web app with stunning 3D animations & glassmorphism design*
 
 </div>
 
-The **3D Distributed Load Balancer Simulator** is a cutting-edge educational game that brings network engineering concepts to life. Step into the role of a network administrator managing real-time server infrastructure, balancing traffic loads, and preventing system failures—all in stunning 3D.
+### ✨ **Highlights:**
+- 💖 **Beautiful UI/UX** with glassmorphism effects
+- 🎭 **3D Animations** powered by GSAP
+- 🌓 **Dark/Light Mode** with persistent theme
+- 📱 **Fully Responsive** - works on all devices
+- 🎵 **Sound Effects** for interactive experience
+- 🔗 **Social Sharing** - WhatsApp, Twitter, Facebook
+- 🎨 **Premium Design** - WOW factor guaranteed!
 
-### 🎯 Why This Project?
+### 🛠️ **Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-- **🎓 Learn by Doing**: Understand load balancing algorithms through interactive gameplay
-- **🌐 Real-World Simulation**: Experience actual network challenges in a safe environment
-- **🎨 Beautiful Visualization**: See data flow in real-time with particles, lighting, and dynamic graphics
-- **📊 Data-Driven**: Monitor performance with live charts and statistics
-- **🔊 Immersive**: Voice alerts keep you engaged and informed
-
----
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 **Gameplay Mechanics**
-- ✅ Role-play as network administrator
-- ✅ Realistic traffic simulation (RPS, spikes)
-- ✅ 3 load balancing algorithms
-- ✅ Dynamic server capacity management
-- ✅ Multi-level difficulty system
-- ✅ Comprehensive scoring system
-
-</td>
-<td width="50%">
-
-### 🎨 **3D Graphics & Animations**
-- ✅ Procedurally generated 3D servers
-- ✅ Glowing particle traffic system
-- ✅ Dynamic lighting effects
-- ✅ Smooth camera animations
-- ✅ Color-coded server states
-- ✅ Real-time visual feedback
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 **UI/UX Design**
-- ✅ Modern, intuitive dashboard
-- ✅ Live matplotlib charts
-- ✅ Achievement notifications
-- ✅ Interactive controls
-- ✅ Real-time statistics
-- ✅ Game over screen with stats
-
-</td>
-<td width="50%">
-
-### 🔊 **Audio & Voice**
-- ✅ Text-to-speech alerts
-- ✅ Context-aware announcements
-- ✅ Server overload warnings
-- ✅ Achievement unlocks
-- ✅ Traffic spike notifications
-- ✅ Smart cooldown system
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ---
 
-## 🎯 Game Mechanics
-
-### 🔄 Load Balancing Algorithms
-
-<table>
-<tr>
-<th>Algorithm</th>
-<th>Key</th>
-<th>Description</th>
-<th>Best For</th>
-</tr>
-<tr>
-<td><strong>Round Robin</strong></td>
-<td><code>1</code></td>
-<td>Distributes requests evenly in sequence</td>
-<td>Equal capacity servers</td>
-</tr>
-<tr>
-<td><strong>Least Connection</strong></td>
-<td><code>2</code></td>
-<td>Sends to server with fewest connections</td>
-<td>Varying processing times</td>
-</tr>
-<tr>
-<td><strong>Weighted Round Robin</strong></td>
-<td><code>3</code></td>
-<td>Distributes based on server weights</td>
-<td>Different capacity servers</td>
-</tr>
-</table>
-
-### 🎚️ Difficulty Levels
-
-| Level | Base RPS | Spike Multiplier | Score Multiplier | Challenge |
-|-------|----------|------------------|------------------|-----------|
-| **🟢 Beginner** | 20 RPS | 2x | 1.0x | Perfect for learning |
-| **🟡 Intermediate** | 50 RPS | 3x | 1.5x | Test your skills |
-| **🔴 Expert** | 100 RPS | 4x | 2.0x | Ultimate challenge |
-
----
-
-## 🛠️ Tech Stack
+## 💻 **Tech Stack & Skills**
 
 <div align="center">
 
-### Core Technologies
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Panda3D](https://img.shields.io/badge/Panda3D-EE4C2C?style=for-the-badge&logo=3d&logoColor=white)
+### **Design & Animation**
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
-### Libraries & Frameworks
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Audio
-
-![pyttsx3](https://img.shields.io/badge/pyttsx3-Text--to--Speech-orange?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ankushkumarake1234-lang&show_icons=true&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF006E&icon_color=FF006E&text_color=FFFFFF&border_color=FF006E" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumarake1234-lang&theme=radical&border_radius=15&background=0D1117&ring=FF006E&fire=FF006E&currStreakLabel=FF006E&border=FF006E" width="49%" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkumarake1234-lang&layout=compact&theme=radical&border_radius=15&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&border_color=FF006E" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushkumarake1234-lang&theme=github-dark&bg_color=0D1117&color=FF006E&line=FF006E&point=FFFFFF&area=true&border_color=FF006E&radius=15" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=FF006E)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 **What I'm Up To**
+
+<div align="center">
+
+| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate |
+|:-----------------------:|:--------------------:|:------------------------:|
+| Love Calculator Premium | Advanced GSAP Animations | Open Source Projects |
+| Portfolio Website | Modern UI/UX Patterns | Creative Web Apps |
+| Interactive Web Apps | Performance Optimization | Design Systems |
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+
+![Ankush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankushkumarake1234-lang&bg_color=0D1117&color=FF006E&line=FF5E78&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 💡 **My Coding Philosophy**
+
+<div align="center">
+
+```diff
++ Clean Code is Happy Code
++ User Experience > Everything
++ Animations Bring Magic to Life
++ Responsive Design is Not Optional
++ Accessibility Matters
++ Performance is a Feature
++ Share Knowledge, Grow Together
+```
+
+</div>
+
+---
+
+## 🌟 **Skills Breakdown**
+
+<div align="center">
+
+| Skill | Proficiency |
+|:------|:-----------:|
+| HTML5 & CSS3 | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=300&color=ff006e&suffix=%) |
+| JavaScript (ES6+) | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=300&color=ff5e78&suffix=%) |
+| UI/UX Design | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=300&color=ff9a8b&suffix=%) |
+| GSAP Animations | ![75%](https://progress-bar.dev/75/?scale=100&title=Intermediate&width=300&color=8b5cf6&suffix=%) |
+| Responsive Design | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=300&color=c084fc&suffix=%) |
+| Git & GitHub | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=300&color=e879f9&suffix=%) |
+
+</div>
+
+---
+
+## 🎨 **Design Principles I Follow**
+
+<div align="center">
+
+| Principle | Description |
+|:----------|:------------|
+| 🎭 **Glassmorphism** | Frosted glass effects with backdrop blur |
+| 🌈 **Gradient Magic** | Beautiful color transitions |
+| ✨ **Micro-interactions** | Delightful animations on every action |
+| 📱 **Mobile-First** | Design for small screens, scale up |
+| 🎯 **User-Centric** | Always think from user's perspective |
+| 🚀 **Performance** | Fast load times, smooth 60 FPS animations |
+
+</div>
+
+---
+
+## 📫 **Let's Connect!**
+
+<div align="center">
+
+### **I'm always open to interesting conversations and collaboration opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-kumar-60333537b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushkumarake1234-lang)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushkumar@example.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Random Dev Quote**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=FF006E)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 **Fun Zone**
 
 <details>
-<summary><b>📦 Detailed Dependencies</b></summary>
+<summary>🎲 Click for a Random Joke!</summary>
+<br>
 
-| Technology | Purpose | Version |
-|------------|---------|---------|
-| **Panda3D** | 3D game engine | 1.10.16 |
-| **Matplotlib** | Real-time charts | 3.10.8 |
-| **pyttsx3** | Text-to-speech | 2.90 |
-| **Pillow (PIL)** | Image generation | 12.1.0 |
-| **NumPy** | Numerical operations | 1.24+ |
-| **Python** | Core language | 3.8+ |
+<!-- Joke Card -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF006E)
 
 </details>
 
----
+<details>
+<summary>🐍 Watch the Snake Eat My Contributions!</summary>
+<br>
 
-## 📂 Project Structure
-```
-Distributed-Load-Balancer-Simulator/
-│
-├── 📄 main.py                      # Main game file (280+ lines)
-├── 🚀 start.py                     # Interactive launcher
-├── ⚙️  config.py                    # Centralized configuration
-├── 📋 requirements.txt             # Python dependencies
-├── 📖 README.md                    # You are here!
-├── 📚 TUTORIAL.md                  # Detailed bilingual tutorial
-├── ⚡ QUICKSTART.md                # Quick start guide
-│
-├── 📁 src/
-│   ├── 🧠 core/
-│   │   ├── server.py               # Server simulation (120+ lines)
-│   │   ├── load_balancer.py        # Load balancing algorithms (120+ lines)
-│   │   ├── traffic_generator.py    # Traffic simulation (90+ lines)
-│   │   └── game_state.py           # Game state & scoring (160+ lines)
-│   │
-│   ├── 🎨 graphics/
-│   │   ├── graphics_3d.py          # 3D rendering engine (250+ lines)
-│   │   └── asset_generator.py      # Procedural asset generation (180+ lines)
-│   │
-│   ├── 🖥️  ui/
-│   │   └── ui_manager.py           # UI & charts (260+ lines)
-│   │
-│   └── 🔊 audio/
-│       └── audio_manager.py        # Voice system (120+ lines)
-│
-├── 📁 assets/
-│   ├── textures/                   # Auto-generated at runtime
-│   ├── models/                     # Auto-generated at runtime
-│   ├── sounds/                     # Reserved for future
-│   └── music/                      # Reserved for future
-│
-└── 📁 data/
-    └── leaderboard.json            # High scores (auto-created)
-```
+![Snake animation](https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/output/github-contribution-grid-snake-dark.svg)
 
-**📊 Statistics**: 16 files • 1,500+ lines of code • 300+ lines of documentation
-
----
-
-## 🚀 Installation
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip package manager
-
-### Step-by-Step Setup
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/yourusername/distributed-load-balancer-simulator.git
-cd distributed-load-balancer-simulator
-
-# 2️⃣ Install dependencies
-pip3 install -r requirements.txt
-
-# 3️⃣ (Optional) Install espeak for voice on macOS
-brew install espeak
-
-# 4️⃣ Run the game!
-python3 start.py
-```
-
-### Quick Install (One-liner)
-```bash
-git clone https://github.com/yourusername/distributed-load-balancer-simulator.git && cd distributed-load-balancer-simulator && pip3 install -r requirements.txt && python3 start.py
-```
-
----
-
-## 🎮 How to Play
-
-### 🎯 Controls
-
-| Key | Action |
-|-----|--------|
-| **1** | Switch to Round Robin algorithm |
-| **2** | Switch to Least Connection algorithm |
-| **3** | Switch to Weighted Round Robin algorithm |
-| **A** | Add new server to pool |
-| **R** | Restart failed server |
-| **C** | Toggle camera rotation |
-| **P** | Pause/Resume game |
-| **ESC** | Restart game |
-| **Q** | Quit game |
-
-### 🎬 Getting Started
-
-1. **Launch the game** using `python3 start.py`
-2. **Select difficulty**: Choose from Beginner, Intermediate, or Expert
-3. **Watch the dashboard**: Monitor RPS, efficiency, and server health
-4. **Respond to alerts**: Listen for voice warnings about overloads and failures
-5. **Manage servers**: Add servers or restart failed ones as needed
-6. **Switch algorithms**: Experiment with different load balancing strategies
-7. **Earn achievements**: Unlock rewards by meeting specific goals
-
-### 💡 Pro Tips
-
-- 🟢 **Start with Round Robin** - It's the easiest to understand
-- 📊 **Watch the charts** - They reveal traffic patterns
-- 🔴 **React quickly** to server failures - Every second counts
-- ⚖️ **Balance is key** - Don't let any server get overloaded
-- 🏆 **Chase achievements** - They guide you to better strategies
-
----
-
-## 📊 Scoring System
-
-### Formula
-```python
-Score = (Time Points + Request Points - Failure Penalty) × Difficulty Multiplier
-```
-
-**Where:**
-- **Time Points** = `time × efficiency × 0.1`
-- **Request Points** = `requests_handled × 0.1`
-- **Failure Penalty** = `failed_requests × 2`
-
-### Efficiency Calculation
-```python
-Efficiency = (Uptime × 0.4) + (Response Score × 0.3) + (Distribution Score × 0.3)
-```
-
-**Components:**
-- **Uptime Score**: Average server uptime percentage
-- **Response Score**: Based on response time (lower = better)
-- **Distribution Score**: How evenly load is distributed
-
----
-
-## 🏆 Achievements
-
-| Achievement | Description | Difficulty |
-|-------------|-------------|------------|
-| **🥉 Century** | Handle 100 requests | ⭐ Easy |
-| **⏱️ Survivor** | Survive for 5 minutes | ⭐⭐ Medium |
-| **💚 Perfect Health** | Keep all servers alive for 1 minute | ⭐⭐⭐ Medium-Hard |
-| **⚡ Efficiency Master** | Maintain 95%+ efficiency for 2 minutes | ⭐⭐⭐⭐ Hard |
-
----
-
-## 🎨 Visual Features
-
-<table>
-<tr>
-<td>
-
-### 🔷 3D Graphics
-- Procedurally generated server textures
-- Glowing particle effects
-- Dynamic lighting system
-- Smooth camera animations
-- Color-coded server states
-
-</td>
-<td>
-
-### 🖥️ UI Elements
-- Real-time statistics dashboard
-- Live performance charts
-- Achievement notifications
-- Game over screen
-- On-screen control help
-
-</td>
-</tr>
-</table>
-
-### 🎨 Color System
-
-- 🟢 **Green**: Healthy server (< 60% load)
-- 🟡 **Yellow**: Moderate load (60-80%)
-- 🟠 **Orange**: High load (80-90%)
-- 🔴 **Red**: Overloaded (90-100%)
-- ⚫ **Gray**: Failed server
-
----
-
-## 🔊 Audio System
-
-### Voice Alerts (Text-to-Speech)
-
-- 🚨 "Server [X] is overloaded!"
-- ❌ "Server [X] has failed!"
-- 📈 "Traffic spike detected!"
-- 🏆 "Achievement unlocked: [Name]!"
-- ▶️ "Load balancer simulation started"
-- 🏁 "Game over! Final score: [X]"
-
-**Smart Features:**
-- 5-second cooldown between repeated alerts
-- Context-aware announcements
-- Automatic graceful degradation if TTS unavailable
-
----
-
-## 📈 Educational Value
-
-### What You'll Learn
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 Network Concepts**
-- Load balancing fundamentals
-- Traffic distribution strategies
-- Server capacity planning
-- Failure recovery mechanisms
-- System efficiency optimization
-
-</td>
-<td width="50%">
-
-**💻 Programming Skills**
-- 3D game development in Python
-- Real-time data visualization
-- Procedural asset generation
-- Event-driven architecture
-- Object-oriented design patterns
-
-</td>
-</tr>
-</table>
-
----
-
-## 🗺️ Roadmap
-
-### ✅ Completed Features
-
-- [x] Core gameplay mechanics
-- [x] 3D graphics engine
-- [x] Three load balancing algorithms
-- [x] Real-time monitoring dashboard
-- [x] Achievement system
-- [x] Voice alert system
-- [x] Difficulty levels
-- [x] Leaderboard system
-
-### 🚧 Planned Enhancements
-
-- [ ] Background music system
-- [ ] Additional load balancing algorithms (IP Hash, Consistent Hashing)
-- [ ] Network topology visualization
-- [ ] Multiplayer mode
-- [ ] Video export feature
-- [ ] Custom server configurations
-- [ ] Extended achievement list (10+ achievements)
-- [ ] Save/load game state
-- [ ] Cloud deployment mode
-- [ ] Advanced statistics dashboard
-
-### 💡 Future Ideas
-
-- [ ] VR support
-- [ ] Mobile version
-- [ ] Steam Workshop integration
-- [ ] Custom scenario editor
-- [ ] Real-world dataset integration
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
-
-### How to Contribute
-
-1. **Fork the Project**
-2. **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Areas for Contribution
-
-- 🐛 Bug fixes
-- ✨ New features
-- 📝 Documentation improvements
-- 🎨 UI/UX enhancements
-- 🌐 Translations
-- 🧪 Test coverage
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-<div align="center">
-
-### Made with ❤️ by **Your Name**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-**If you found this project helpful, please consider giving it a ⭐!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</details>
 
 </div>
 
@@ -511,11 +252,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**🎮 Ready to master load balancing? Run the game now!**
-```bash
-python3 start.py
-```
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."**
+*– Cory House*
 
-*Star this repo if you enjoyed it! 🌟*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**Made with ❤️ by Ankush Kumar**
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
